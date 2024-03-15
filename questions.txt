@@ -1,0 +1,4 @@
+1- quelles sont les analyses qu'on peut faire à partir de ces données?
+2- écrire les requetes SQL (importer les données d'abord)
+3- excel?
+
